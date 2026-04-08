@@ -3,7 +3,7 @@
 Repositorio personal para la cursada de Sintaxis y Semantica de los Lenguajes (SSL) en la UTN FRBA
 
 ## Datos del Alumno 
-- Nombre: ALex Kuno
+- Nombre: Alex Kuno
 - Usuario GitHub: Alex kuno rodriguez
 - Email Institucional: akuno@frba.utn.edu.ar
 
