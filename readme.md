@@ -6,7 +6,4 @@ Repositorio personal para la cursada de Sintaxis y Semantica de los Lenguajes (S
 - Nombre: Alex Kuno
 - Usuario GitHub: Alex kuno rodriguez
 - Email Institucional: akuno@frba.utn.edu.ar
-
-## Trabajos Prácticos
-
-- [00-CHelloWorld](./00-CHelloWorld)
+- Curso: K2003
