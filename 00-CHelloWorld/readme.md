@@ -1,3 +1,7 @@
+# 00 - Preparacion Incial: "Hello, World!" en C
+
+Resolucion del trabajo practico inicial para configurar el entonrno de desarrollo y probar las herramientas de compilacion.
+
 ## Compilador seleccionado
 
 - Compilador: GCC
@@ -8,44 +12,3 @@
 - Estándar utilizado: C23
 - Flag de compilación: `-std=c23`
 - __STDC_VERSION__: 202311
-
-## Programa
-
-El programa imprime en pantalla:
-
-Hello, World!
-Version del estandar C: 202311
-
-## Compilación
-
-```bash
-gcc -std=c23 hello.c -o hello
-```
-
-## Ejecución
-
-```bash
-.\hello
-```
-
-## Ejecución con redirección
-
-```bash
-.\hello > output.txt
-```
-
-## Contenido de output.txt
-
-Hello, World!
-Version del estandar C: 202311
-
-## Compilación con make
-
-```bash
-make
-```
-
-## Ejecución con make
-
-```bash
-make run
